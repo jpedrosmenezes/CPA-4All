@@ -58,6 +58,25 @@ O projeto seguiu um processo de design centrado no usuário, dividido em dois ci
 
 ---
 
+## 🔨 Processo de Construção
+
+### 1. Corte e preparação das peças de madeira para a construção da estrutura da caixa.
+![Foto da preparação das peças de madeira](./photos/preparacao_pecas.jpeg)
+
+### 2. Realização dos furos na caixa para a montagem e fixação adequada dos componentes da estrutura.
+![Foto da realização dos furos para montagem da caixa](./photos/furos_na_caixa.jpeg)
+
+### 3. Modelagem 3D dos componentes personalizados do projeto.
+![Foto do Modelo 3D dos componentes personalizados](./photos/modelagem_3d.jpeg)
+
+### 4. Estrutura da caixa finalizada e preparada para o revestimento em EVA.
+![Foto da estrutura da caixa finalizada](./photos/estrutura_da_caixa.jpeg)
+
+### 5. Realização de testes, correção de falhas e aprimoramento da estrutura até a conclusão bem-sucedida do controle.
+![Foto do controle completo](./photos/onclusao_bem-sucedida.jpeg)
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Hardware:** Arduino, botões de arcade sensíveis ao toque

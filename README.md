@@ -13,6 +13,12 @@ O **CPA 4All** (Controle de Performance Acessível para Todos) é um controle al
 
 ---
 
+## 📐 Arquitetura do Protótipo
+
+![Esquema elétrico do CPA 4All](./schematics/conexoes_arduino_leonardo.png)
+
+---
+
 ## 🚧 O Desafio
 
 Pessoas com distrofia muscular enfrentam uma dupla barreira ao tentar jogar videogames:
